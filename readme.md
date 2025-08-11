@@ -7,4 +7,5 @@ A novel 4-bit adder uses parallel carry computation (lookahead and bit-slice), w
 ## 🎥 Demo Videos: Error tolerant 4 Bit CLA Adder
 
 ### 🔹 Video 1
-[![Video 1](https://youtu.be/o9kBrMA3NzQ)
+[![Video 4](https://img.youtube.com/vi/o9kBrMA3NzQ/0.jpg)](https://youtu.be/o9kBrMA3NzQ)
+
