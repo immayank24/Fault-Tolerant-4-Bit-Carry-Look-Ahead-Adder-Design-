@@ -1,5 +1,5 @@
 
-4-Bit Hybrid Carry Lookahead Adder in Verilog
+Fault-Tolerant 4-Bit Carry Look-Ahead Adder Design 
 
 A novel 4-bit adder uses parallel carry computation (lookahead and bit-slice), with a voter at each stage selecting among two local carries and a lookahead carry, providing error resilience via partial triple modular redundancy. The design ensures fast, reliable addition with fault tolerance.
 
@@ -10,5 +10,6 @@ A novel 4-bit adder uses parallel carry computation (lookahead and bit-slice), w
 [![Video 4](https://img.youtube.com/vi/o9kBrMA3NzQ/0.jpg)](https://youtu.be/o9kBrMA3NzQ)
 
 Watch here (https://youtu.be/o9kBrMA3NzQ)
+
 
 
